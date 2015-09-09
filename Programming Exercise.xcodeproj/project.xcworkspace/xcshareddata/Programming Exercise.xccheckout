@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>34F87A66-809A-4D79-A501-580C8B9DFE33</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Programming Exercise</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2378871BC1A02F0E511C6EA3E0E57306E87E5772</key>
+		<string>https://github.com/rtaraboo/Programming-Exercise.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Programming Exercise.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2378871BC1A02F0E511C6EA3E0E57306E87E5772</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rtaraboo/Programming-Exercise.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2378871BC1A02F0E511C6EA3E0E57306E87E5772</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2378871BC1A02F0E511C6EA3E0E57306E87E5772</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Programming%20Exercise</string>
+		</dict>
+	</array>
+</dict>
+</plist>
